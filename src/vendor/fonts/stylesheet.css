@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Visby CF';
+    src: url('VisbyCF-Medium.woff2') format('woff2'),
+        url('VisbyCF-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Visby CF';
+    src: url('VisbyCF-HeavyOblique.woff2') format('woff2'),
+        url('VisbyCF-HeavyOblique.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
