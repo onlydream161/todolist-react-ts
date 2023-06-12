@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/todolist-react-ts/static/css/main.e67f012e.css",
+    "main.js": "/todolist-react-ts/static/js/main.87aad23a.js",
+    "static/js/787.28cb0dcd.chunk.js": "/todolist-react-ts/static/js/787.28cb0dcd.chunk.js",
+    "static/media/screen.jpg": "/todolist-react-ts/static/media/screen.3a32e63591f2b13be43e.jpg",
+    "static/media/VisbyCF-HeavyOblique.woff": "/todolist-react-ts/static/media/VisbyCF-HeavyOblique.0119cad84de919e90360.woff",
+    "static/media/VisbyCF-Medium.woff": "/todolist-react-ts/static/media/VisbyCF-Medium.91e88c9da0a2e1d7305d.woff",
+    "static/media/VisbyCF-HeavyOblique.woff2": "/todolist-react-ts/static/media/VisbyCF-HeavyOblique.f8e9530e3cec9262ded0.woff2",
+    "static/media/VisbyCF-Medium.woff2": "/todolist-react-ts/static/media/VisbyCF-Medium.7023f2c2955af196de66.woff2",
+    "static/media/add_icon.svg": "/todolist-react-ts/static/media/add_icon.5ecb9d8e5eee3e4a8b45.svg",
+    "index.html": "/todolist-react-ts/index.html",
+    "static/media/close-icon.svg": "/todolist-react-ts/static/media/close-icon.0577ed4c1f84614ac713.svg",
+    "static/media/delete_icon.svg": "/todolist-react-ts/static/media/delete_icon.2663b5f29ae1d89092a9.svg",
+    "main.e67f012e.css.map": "/todolist-react-ts/static/css/main.e67f012e.css.map",
+    "main.87aad23a.js.map": "/todolist-react-ts/static/js/main.87aad23a.js.map",
+    "787.28cb0dcd.chunk.js.map": "/todolist-react-ts/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e67f012e.css",
+    "static/js/main.87aad23a.js"
+  ]
+}
